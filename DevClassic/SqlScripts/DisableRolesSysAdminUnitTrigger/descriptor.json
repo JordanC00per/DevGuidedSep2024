@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "b28bccd6-e123-ce3e-d625-2662d517047c",
+    "Name": "DisableRolesSysAdminUnitTrigger",
+    "DBEngineType": 0,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1727365959000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
